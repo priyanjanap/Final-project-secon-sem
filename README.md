@@ -25,3 +25,8 @@ The **Loan Management System** is a full-stack web application designed to simpl
 
 ```bash
 git clone https://github.com/priyanjanap/Final-project-secon-sem.git
+
+
+
+video link
+https://youtu.be/4qaqxMkWNYA?si=Gzbo4sna-ZDciFeR
